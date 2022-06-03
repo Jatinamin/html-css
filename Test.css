@@ -7,7 +7,11 @@ body {
     text-align: center;
   }
   
-  p {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-size: 20px;
+  h6 {
+    color: white;
+    text-align: center;
+  }
+  h4 {
+    color: white;
+    text-align: center;
   }
